@@ -14,4 +14,5 @@ Challenges I faced while manipulating the Seaborn plot:
 - Placing each subplot's title to the left-center of each plot (it must be done manually)
 
 ## Google Trends in Japan for 2021
+Trends are shown in descending order (from most popular)
 <p align="left"><img src="visualization.PNG" alt="visualization" width="802" height="542"/>
