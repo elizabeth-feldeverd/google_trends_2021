@@ -15,4 +15,4 @@ Challenges I faced while manipulating the Seaborn plot:
 
 ## Google Trends in Japan for 2021
 Trends are shown in descending order (from most popular)
-<p align="left"><img src="visualization.png" alt="visualization" width="802" height="542"/>
+<p align="left"><img src="visualization.png" alt="visualization" width="834" height="720"/>
