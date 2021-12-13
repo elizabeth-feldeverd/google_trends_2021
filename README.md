@@ -1,5 +1,5 @@
 # Google Trends 2021
-Visualizing Google search trends in Japan in 2021
+Visualizing Google search trends in Japan for 2021
 
 ## Data source
 Data for the top 10 most searched terms in Japan in 2021 were downloaded from Google's Year in Search found here: https://trends.google.com/trends/yis/2021/JP/.
